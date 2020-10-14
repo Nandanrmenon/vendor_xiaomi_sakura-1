@@ -2914,7 +2914,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     vendor.display.color@1.0 \
-    libsdm-disp-vndapis \
     libthermalclient \
     libts_detected_face_hal \
     libts_face_beautify_hal \
@@ -2922,23 +2921,12 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libqmiservices \
     libtime_genoff \
-		Qmmi \
+    libsdm-disp-vndapis \
+    Qmmi \
     QtiSystemService \
-    QtiTelephonyService \
-		datastatusnotification \
-    embms \
-    imssettings \
-    CNEService \
-    WfdService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
     FingerprintExtensionService \
-    PowerOffAlarm \
-    TimeService \
     QPerformance \
     UxPerformance \
-    WfdCommon \
     com.qualcomm.qti.camera \
     embmslibrary
 
